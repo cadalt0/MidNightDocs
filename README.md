@@ -6,7 +6,7 @@ Quick guides for developers moving to Midnight.
 
 If you are coming from Ethereum/EVM development, start here:
 
-- [EVM Developer Quick Guide](./evm/docs/evm.md)
+- [EVM Developer Quick Guide](https://github.com/cadalt0/MidNightDocs/blob/main/quickguide/evm/docs/evm.md)
 
 ### What you will learn
 
